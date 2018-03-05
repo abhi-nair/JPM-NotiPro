@@ -51,7 +51,7 @@ Designed a simple java application which reads a file `(*.txt in this case)` lin
 * Have not created test cases since it involved haveing more external jar dependencies. Would have preferred to use EasyMock (Unitils-JUnit) whcih I find to be quite helpful during development.
 
 ## Getting Started ##
-You can use Git clone with HTTPS https://github.com/abhi-nair/NotiPro.git or downlaod the zip of the checked-in sources. Import into any IDE like IntelliJ, Eclipse and then run the main method of the class -> NotiProApplication.java once the maven build is complete.
+You can use Git clone with HTTPS https://github.com/abhi-nair/JPM-NotiPro or downlaod the zip of the checked-in sources. Import into any IDE like IntelliJ, Eclipse and then run the main method of the class -> NotiProApplication.java once the maven build is complete.
 * Results will be printed onto the console.
 * A log file will be created in the classpath with the default logger level set to INFO
 
