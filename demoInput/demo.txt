@@ -1,0 +1,92 @@
+Apple at 10p
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Scones at 10p each
+Scone at 10p
+20 sales of Cherries at 10p each
+Cherry at 10p
+20 sales of Umbrellas at £1.20 each
+Umbrella at £1.20
+20 sales of Mangoes at 10p each
+Mango at 10p
+5 sales of Strawberries at 5p each
+Strawberry at 5p
+2 sales of grapes at 15p each
+grapes at 15p
+Watermelon at 20p
+25 sales of watermelons at 20p each
+Apple at 10p
+Add 2p Mangoes
+Add 3p Scones
+Subtract 5p Apples
+Apple at 10p
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Scones at 10p each
+Scone at 10p
+20 sales of Cherries at 10p each
+Cherry at 10p
+20 sales of Umbrellas at £1.20 each
+Umbrella at £1.20
+20 sales of Mangoes at 10p each
+Mango at 10p
+5 sales of Strawberries at 5p each
+Apple at 10p
+20 sales of Apples at 10p each
+Multiply 20p Strawberries
+Apple at 10p
+20 sales of Scones at 10p each
+Scone at 10p
+Add 5p Mangoes
+Subtract 5p Cherries
+Subtract 20p Umbrellas
+12 sales of grapes
+20 sales of Cherries at 10p each
+Cherry at 10p
+20 sales of Umbrellas at £1.20 each
+Umbrella at £1.20
+20 sales of Mangoes at 10p each
+Mango at 10p
+5 sales of Strawberries at 5p each
+Apple at 10p
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Scones at 10p each
+Scone at 10p
+20 sales of Cherries at 10p each
+Cherry at 10p
+20 sales of Umbrellas at £1.20 each
+Subtract 20p Umbrellas
+20 sales of Mangoes at 10p each
+Mango at 10p
+5 sales of Strawberries at 5p each
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Scones at 10p each
+Scone at 10p
+20 sales of Cherries at 10p each
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Scones at 10p each
+Scone at 10p
+20 sales of Cherries at 10p each
+20 sales of Apples at 10p each
+Add 20p Apples
+Apple at 10p
+20 sales of Scones at 10p each
+Scone at 10p
+20 sales of Cherries at 10p each
